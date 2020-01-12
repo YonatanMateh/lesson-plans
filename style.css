@@ -2,4 +2,9 @@
   height: 50px;
   width: 100px;
   background: lightgreen;
+  
+}
+
+.box {
+  background-color: blue;
 }
