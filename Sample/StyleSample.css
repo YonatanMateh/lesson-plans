@@ -1,0 +1,38 @@
+.box {
+  width: 100px;
+  height: 100px;
+}
+
+#first {
+  background-color: rgb(134, 134, 243);
+}
+
+#second {
+  background-color: rgb(110, 190, 110);
+  margin-left: 100px;
+}
+
+#third {
+  background-color: rgb(177, 81, 177);
+  padding: 100px;
+  border: black 5px dotted;
+}
+
+
+#one {
+  background-color: cyan;
+  position: absolute;
+  bottom: 0;
+}
+
+#two {
+  background-color: sandybrown;
+  position: relative;
+}
+
+#container {
+  width: 500px;
+  height: 500px;
+  background-color: slategray;
+  position: relative;
+}
