@@ -4,3 +4,54 @@ const moreItems = [
 ]
 
 
+// IF ( intro )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Global ( with function )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Local ( with function )
+
+
+
+
+
+
+
+
+
+
+
+
+// Local ( with loop )
