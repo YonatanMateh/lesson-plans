@@ -1,59 +1,9 @@
 
 
 const country1 = 'Canada'
-const country2 = 'Israel'
 const country3 = 'Thailand'
 const country4 = 'Brazil'
-
-
-
-
-
-
-
-//Array - Syntax
-
-
-
-
-//Length
-
-
-
-
-//Accessing
-
-
-
-
-//Adding & Removing
-
-
-
-
-
-//Objects - Syntax
-
-
-
-
-
-//Accessing items
-
-
-
-
-
-//Array of objects
-
-
-
-
-
-
-//Reference type
-
-
+const country2 = 'Israel'
 
 
 
