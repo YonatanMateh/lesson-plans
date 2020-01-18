@@ -1,0 +1,58 @@
+//FUNCTION REMINDER
+
+
+
+
+
+
+
+
+
+
+// //FUNCTIONS CAN RETURN OTHER FUNCTIONS
+
+
+
+
+
+
+
+
+
+// //CLOSURES
+
+
+
+
+
+
+
+// //CLOSURES PERSIST OUTER VARIABLES
+
+
+
+
+
+
+
+
+
+
+
+
+// //MODULE - CALCULATOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// //REVIEW MODULE
