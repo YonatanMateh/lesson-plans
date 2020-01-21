@@ -1,0 +1,102 @@
+.text {
+  background-color: #f39c12;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#fixed-width {
+  background-color: red;
+  height: 50px;
+  width: 500px
+}
+
+#flexible {
+  background-color: red;
+  height: 50px;
+  width: 25%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#dynamic {
+  font-size: 1vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.item {
+  width: 22%;
+  height: 200px;
+  background-color: red;
+  margin: 10px;
+  display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media(max-width: 768px) {
+  .item {
+    display: block;
+    width: 100%;
+  }
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .text{
+  max-width:500px;
+  min-height: 50px;
+} */
