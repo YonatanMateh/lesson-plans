@@ -1,5 +1,10 @@
+
+
+
 .text {
   background-color: #f39c12;
+  max-width: 500px;
+  min-width: 50px;
 }
 
 
@@ -73,7 +78,9 @@
 
 
 
-/* @media(max-width: 768px) {
+
+
+/* @media(max-width: 768px) and (min-width: 600px) and (orientation: landscape){
   .item {
     display: block;
     width: 100%;
