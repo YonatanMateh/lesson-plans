@@ -1,0 +1,21 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+
+
+.head {
+  background-color: blue;
+}
+
+.side-nav {
+  background-color: yellow;
+}
+
+.main {
+  background-color: red;
+}
+
+.foot {
+  background-color: green;
+}
