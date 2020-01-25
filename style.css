@@ -1,0 +1,20 @@
+.post {
+  background-color: lightblue;
+  width: 200px;
+  border-radius: 10px;
+  padding:5px;
+  margin:10px;
+}
+
+.comment-container {
+  margin-left: 10px;
+}
+
+.remove {
+  color: red;
+  cursor: pointer;
+}
+
+.input-area {
+  margin: 10px;
+}
