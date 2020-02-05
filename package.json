@@ -1,0 +1,24 @@
+{
+  "name": "master-file",
+  "version": "1.0.0",
+  "description": "All lesson plans for full stack bootcamp - built by Danny",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danbrud/lesson-plans.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danbrud/lesson-plans/issues"
+  },
+  "homepage": "https://github.com/danbrud/lesson-plans#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
